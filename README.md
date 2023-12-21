@@ -71,3 +71,19 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## env
+DB_PORT=
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
+
+REDIS_HOST=
+REDIS_PORT=
+REDIS_DB=
+REDIS_PASSWORD=
+REDIS_PRIFIX=
+
+MAIL_API_URL=
+MAIL_API_TOKEN=
